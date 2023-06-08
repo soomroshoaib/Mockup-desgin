@@ -1,0 +1,209 @@
+.mein {
+    display: flex;
+    justify-content: space-around;
+    /* top: 0px;
+    left: 0px; */
+    background-color: black;
+    height: 50px;
+    color: white;
+}
+
+.Header {
+
+    /* width: 100%; */
+    height: 80px;
+    box-shadow: 0 0 10px -7px rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.List {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 50%;
+    font-size: large;
+    cursor: pointer;
+}
+
+.Logo {
+    height: 15px;
+    margin-bottom: 40px;
+
+}
+
+.btn1 {
+    height: 45px;
+    width: 70px;
+    background-color: white;
+    border: 1px solid rgb(255, 187, 0);
+
+}
+
+.btn2 {
+    height: 45px;
+    width: 100px;
+    background-color: rgb(255, 187, 0);
+
+    border: 1px solid rgb(255, 187, 0);
+}
+
+/* .bg-img{
+   
+
+  
+} */
+
+.Container-1 {
+
+    background-image: url(../Image/Group\ 1688@2x.png);
+    background-color: #cccccc;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bg-img {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    padding-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin-left: 100px;
+}
+
+#btn>button {
+    height: 45px;
+    width: 140px;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.Tracked {
+    margin-top: 20px;
+    /* padding-top: 50px; */
+    /* padding-bottom: 50px; */
+    display: flex;
+    /* height: 200px; */
+    justify-content: space-around;
+    background-color: black;
+
+
+}
+
+.location {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    /* background-color: black; */
+    color: white;
+
+}
+
+.shipment {
+    background-color: white;
+    width: 50%;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* border-radius: 0, 0, 30% ,0 solid white; */
+
+
+}
+
+.shipment>p>input {
+    height: 40px;
+    border: none;
+    width: 30%;
+
+}
+
+.large {
+    border-left: 2px solid white;
+    /* margin-bottom: 0px; */
+    height: 150px;
+    position: absolute;
+    /* left: 50%; */
+    /* margin-bottom: 214px; */
+}
+
+.para {
+    border: 1px solid rgb(255, 187, 0);
+
+}
+
+.btn55 {
+    height: 34px;
+    width: 100px;
+    background-color: rgb(255, 187, 0);
+    border: none;
+    color: white;
+}
+
+.trackes {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+.boxing {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    /* text-align: center; */
+    align-items: center;
+}
+
+
+
+.Airfreigh{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;    
+}
+
+
+
+/* 
+.larges123 {
+    border-left: 2 solid black;
+    
+    height: 150px;
+    position: absolute;
+   
+} */
+
+.imgAir > img {
+   padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+.second-meindiv{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.local-shiping{
+    display: flex;
+    
+}
+
+.Wareing{
+    display: flex;
+
+}

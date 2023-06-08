@@ -1,0 +1,93 @@
+.linux{
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+    margin-top: 20px;
+}
+
+.boximg{
+    margin-right: 150px;
+    width: 391px;
+    height: 256px;
+    width: 60%;
+}
+
+.dolor-para{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+}
+
+.sideimg{
+    
+    width: 450px;
+}
+.handing-side{
+    display: flex;
+    margin-top: 5%;
+}
+
+.lessten{
+    display: flex;
+    justify-content: center;
+
+    
+
+}
+
+.lessten > img{ 
+ margin-left: 30px;
+margin-top: 20px;
+
+}
+
+
+.imgcart{
+
+margin-left: 70px;
+
+ }
+
+ .starts{
+    display: flex;
+    
+ }
+ .haven{
+    background-color: #f1e6e6;
+    border-radius: 5%;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 250px;
+    width: 320px;
+    /* margin-right: 20px; */
+ }
+
+ .hance{
+    background-color: #f1e6e6;
+    border-radius: 5%;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 250px;
+    width: 320px;
+    margin-left: 20px;
+ }
+
+ .man{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+ }
+
+ .follerend{
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+    /* align-items: center; */
+    margin-top: 40px;
+    padding-top: 100px;
+    background-color: black;
+    color: #f1e6e6;
+ }

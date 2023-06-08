@@ -1,0 +1,91 @@
+.cartimg{
+    height: 220px;
+    width: 280px;
+    
+}
+
+.meincart{
+ background-color: #f1e6e6;
+ border-radius: 5%;
+ height: 320px;
+ width: 280px;
+
+}
+
+.cartdiv-mein{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    
+    /* text-align: center; */
+    align-items: center;
+    /* background-color: gray; */
+}
+
+.computer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    /* text-align: center; */
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn44{
+    height: 45px;
+    width: 140px;
+    margin-left: 10px;
+    background-color: rgb(255, 187, 0);
+    color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+
+/* flip cart starting */
+
+
+.cartdiv-flip{
+
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 80px; */
+
+    /* background-color: aqua; */
+    /* text-align: center; */
+    align-items: center;
+    /* background-color: gray; */
+}
+
+.meincart-flip{
+    background-color: white;
+    border-radius: 5%;
+    height: 380px;
+    width: 250px;
+   
+   }
+
+   .cartimg-flip{
+    height: 220px;
+    width: 250px;
+    
+}
+
+.Delivery{
+    padding-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    align-items: center;
+}
+
+
+.btn445{
+    height: 35px;
+    width: 140px;
+    margin-left: 10px;
+    background-color: rgb(255, 187, 0);
+    color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
